@@ -1,0 +1,15 @@
+# Core dependencies
+streamlit>=1.28.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+scikit-learn>=1.3.0
+
+# Optional: Advanced face recognition (recommended for better clustering)
+# Uncomment the lines below for better face recognition capabilities
+
+# For state-of-the-art face recognition (ArcFace)
+insightface>=0.7.3
+
+# For fast similarity search (recommended for large datasets)
+faiss-cpu>=1.7.4
