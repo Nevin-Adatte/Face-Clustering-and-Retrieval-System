@@ -13,3 +13,5 @@ insightface>=0.7.3
 
 # For fast similarity search (recommended for large datasets)
 faiss-cpu>=1.7.4
+
+onnxruntime
